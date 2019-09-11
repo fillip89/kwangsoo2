@@ -64,12 +64,22 @@ div.mainCategorys{
   border-radius: 10px;
   padding: 30px;
 }
-#shirt{
+#leging{
   background-image: url('../images/maincover1.jpg');
 }
-#leging{
+#full{
   background-image: url('../images/maincover2.jpg');
 }
+#shirt{
+  background-image: url('../images/maincover3.jpg');
+}
+#hard{
+  background-image: url('../images/maincover4.jpg');
+}
+#real{
+  background-image: url('../images/maincover5.jpg');
+}
+
 div.mainCategorys h3{
   position: absolute;
   margin: 0;
@@ -86,11 +96,11 @@ div.mainCategorys i{
   position: absolute;
   right: 30px;
   bottom: 20px;
-  -webkit-animation: categoryI 2s infinite;
-  -ms-animation: categoryI 2s infinite;
-  -moz-animation: categoryI 2s infinite;
-  -o-animation: categoryI 2s infinite;
-  animation: categoryI 2s infinite;
+  -webkit-animation: categoryI 1s infinite;
+  -ms-animation: categoryI 1s infinite;
+  -moz-animation: categoryI 1s infinite;
+  -o-animation: categoryI 1s infinite;
+  animation: categoryI 1s infinite;
 }
 -webkit-@keyframes categoryI {
   0%{padding-right: 10px;}

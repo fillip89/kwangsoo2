@@ -73,6 +73,9 @@ ul.fixedNav li a{
   100%{color: #ff7675;}
 }
 
+.mainCategory img{
+  width: 100%;
+}
 
 
 footer a{
